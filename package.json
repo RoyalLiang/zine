@@ -1,0 +1,19 @@
+{
+  "name": "my-app",
+  "version": "0.0.0",
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite"
+  },
+  "dependencies": {
+    "element-plus": "^1.0.2-beta.28",
+    "vue": "^3.0.4"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.0.4",
+    "sass": "^1.27.0",
+    "sass-loader": "^10.0.4",
+    "vite": "^1.0.0-rc.13",
+    "vue-cli-plugin-element-plus": "0.0.13"
+  }
+}
